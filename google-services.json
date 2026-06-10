@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435734330850",
+    "project_id": "pakistan-emergency-helpline",
+    "storage_bucket": "pakistan-emergency-helpline.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435734330850:android:bf4fd257361b7fb80e4dbb",
+        "android_client_info": {
+          "package_name": "space.manus.pakistan.emergency.helpline.t20260304040534"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKCjHEj239ZrzqTeShq5QLTxvoR1ZR4NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "2.0.1"
+}
