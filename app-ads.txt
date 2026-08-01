@@ -1,10 +1,5 @@
-# Google AdMob (Primary Ad Network)
-google.com, ca-app-pub-3617790148719581, DIRECT, f08c47fec0942fa0
-
-# Unity Ads
+google.com, pub-3617790148719581, DIRECT, f08c47fec0942fa0
 unity3d.com, 6073366, DIRECT, f7f892a09c2a71d8
-
-# IronSource Ads
 ironsrc.com, 654021, DIRECT, 5585098e99a53856
 
 smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
