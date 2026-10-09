@@ -2,6 +2,13 @@ google.com, pub-3617790148719581, DIRECT, f08c47fec0942fa0
 unity3d.com, 6073366, DIRECT, f7f892a09c2a71d8
 ironsrc.com, 654021, DIRECT, 5585098e99a53856
 
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU5L226O, RESELLER
