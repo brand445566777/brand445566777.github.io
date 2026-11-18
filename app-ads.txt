@@ -2,6 +2,9 @@ google.com, pub-3617790148719581, DIRECT, f08c47fec0942fa0
 unity3d.com, 6073366, DIRECT, f7f892a09c2a71d8
 ironsrc.com, 654021, DIRECT, 5585098e99a53856
 
+playdigo.com, 1965, RESELLER
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
 bold-win.com, 1013, RESELLER, 71746737d0bab951
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
